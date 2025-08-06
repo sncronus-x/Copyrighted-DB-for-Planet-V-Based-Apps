@@ -1,0 +1,64 @@
+{
+  "status": "active",
+  "is_sync_need": "yes",
+  "book_count": 6,
+  "notes": "This file contains metadata for the Book Apps database. No book content is stored here. Use this file to check for updates.",
+  "books": {
+    "কবি": {
+      "version": 1,
+      "cover_pic": "https://i.pinimg.com/736x/2f/57/b8/2f57b8354cb58fd96ed3ab3868ea2d50.jpg"
+    },
+    "গীতাঞ্জলি": {
+      "version": 1,
+      "cover_pic": "https://i.pinimg.com/736x/2f/57/b8/2f57b8354cb58fd96ed3ab3868ea2d50.jpg"
+    },
+    "চোখের বালি": {
+      "version": 1,
+      "cover_pic": "https://i.pinimg.com/736x/2f/57/b8/2f57b8354cb58fd96ed3ab3868ea2d50.jpg"
+    },
+    "দেবদাস": {
+      "version": 1,
+      "cover_pic": "https://i.pinimg.com/736x/2f/57/b8/2f57b8354cb58fd96ed3ab3868ea2d50.jpg"
+    },
+    "পথের পাঁচালী": {
+      "version": 1,
+      "cover_pic": "https://i.pinimg.com/736x/2f/57/b8/2f57b8354cb58fd96ed3ab3868ea2d50.jpg"
+    },
+    "হাজার বছর ধরে": {
+      "version": 1,
+      "cover_pic": "https://i.pinimg.com/736x/2f/57/b8/2f57b8354cb58fd96ed3ab3868ea2d50.jpg"
+    }
+  },
+  "previous": {
+    "status": "previous",
+    "is_sync_need": "yes",
+    "book_count": 6,
+    "notes": "This block stores the last known synced book metadata to allow comparison with the current version.",
+    "books": {
+      "কবি": {
+        "version": 1,
+        "cover_pic": "https://i.pinimg.com/736x/2f/57/b8/2f57b8354cb58fd96ed3ab3868ea2d50.jpg"
+      },
+      "গীতাঞ্জলি": {
+        "version": 1,
+        "cover_pic": "https://i.pinimg.com/736x/2f/57/b8/2f57b8354cb58fd96ed3ab3868ea2d50.jpg"
+      },
+      "চোখের বালি": {
+        "version": 1,
+        "cover_pic": "https://i.pinimg.com/736x/2f/57/b8/2f57b8354cb58fd96ed3ab3868ea2d50.jpg"
+      },
+      "দেবদাস": {
+        "version": 1,
+        "cover_pic": "https://i.pinimg.com/736x/2f/57/b8/2f57b8354cb58fd96ed3ab3868ea2d50.jpg"
+      },
+      "পথের পাঁচালী": {
+        "version": 1,
+        "cover_pic": "https://i.pinimg.com/736x/2f/57/b8/2f57b8354cb58fd96ed3ab3868ea2d50.jpg"
+      },
+      "হাজার বছর ধরে": {
+        "version": 1,
+        "cover_pic": "https://i.pinimg.com/736x/2f/57/b8/2f57b8354cb58fd96ed3ab3868ea2d50.jpg"
+      }
+    }
+  }
+}
