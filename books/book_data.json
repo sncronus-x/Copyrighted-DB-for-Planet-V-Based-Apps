@@ -1,0 +1,74 @@
+{
+  "books": [
+    {
+      "title": "অপরাজিতা",
+      "category": "উপন্যাস",
+      "writer": "সেলিনা হোসেন",
+      "cover_image": "B001.jpg",
+      "main_content_file": "B001.txt"
+    },
+    {
+      "title": "পথের পাঁচালী",
+      "category": "উপন্যাস",
+      "writer": "বিভূতিভূষণ বন্দ্যোপাধ্যায়",
+      "cover_image": "B002.jpg",
+      "main_content_file": "B002.txt"
+    },
+    {
+      "title": "চাঁদের পাহাড়",
+      "category": "উপন্যাস",
+      "writer": "শঙ্খ ঘোষ",
+      "cover_image": "B003.jpg",
+      "main_content_file": "B003.txt"
+    },
+    {
+      "title": "নীরবতা",
+      "category": "কবিতা",
+      "writer": "রবীন্দ্রনাথ ঠাকুর",
+      "cover_image": "B004.jpg",
+      "main_content_file": "B004.txt"
+    },
+    {
+      "title": "হাজার বছর ধরে",
+      "category": "গল্প",
+      "writer": "মানিক বন্দ্যোপাধ্যায়",
+      "cover_image": "B005.jpg",
+      "main_content_file": "B005.txt"
+    },
+    {
+      "title": "দুর্গার গড়",
+      "category": "উপন্যাস",
+      "writer": "বঙ্কিমচন্দ্র চট্টোপাধ্যায়",
+      "cover_image": "B006.jpg",
+      "main_content_file": "B006.txt"
+    },
+    {
+      "title": "বিজয়",
+      "category": "গল্প",
+      "writer": "হুমায়ূন আহমেদ",
+      "cover_image": "B007.jpg",
+      "main_content_file": "B007.txt"
+    },
+    {
+      "title": "চর্যাপদ",
+      "category": "প্রাচীন সাহিত্য",
+      "writer": "অজানা",
+      "cover_image": "B008.jpg",
+      "main_content_file": "B008.txt"
+    },
+    {
+      "title": "অন্তরীক্ষে",
+      "category": "কবিতা",
+      "writer": "জীবনানন্দ দাশ",
+      "cover_image": "B009.jpg",
+      "main_content_file": "B009.txt"
+    },
+    {
+      "title": "মেঘনাদ বধ",
+      "category": "উপন্যাস",
+      "writer": "মাইকেল মধুসূদন দত্ত",
+      "cover_image": "B010.jpg",
+      "main_content_file": "B010.txt"
+    }
+  ]
+}
